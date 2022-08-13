@@ -1,5 +1,17 @@
 homepage: "https://www.novergeme.ru/"
 documentation: "https://github.com/novergeme/GTM-template-tag-vk-pixel-retarget-demo/blob/main/README.md"
 versions:
+  # Latest version
   - sha: 4ffbdcfa9f8854e37173408e35b3e7e1c925b668
-    changeNotes: Initial release
+    changeNotes: Update displayName.
+  # Older versions
+  - sha: 9d0d864ca6e4e4ac840dec2bdb5df472beb1ad32
+    changeNotes: Update description.
+  - sha: 0a705e8bcb5205539e47dfa1c8e3c47ed515608a
+    changeNotes: Update help label.
+  - sha: 6b766f8c550a1f2080743aa7b520b4011cb0cd18
+    changeNotes: Add UI.
+  - sha: 041c4808efefb14e1ad5f261a3aca1ffc3bf1b1a
+    changeNotes: Delete old version.
+  - sha: 041c4808efefb14e1ad5f261a3aca1ffc3bf1b1a
+    changeNotes: Initial release.
