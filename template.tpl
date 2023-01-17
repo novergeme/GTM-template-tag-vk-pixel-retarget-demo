@@ -866,6 +866,7 @@ const makeString = require('makeString');
 const sendPixel =  require('sendPixel');
 const JSON = require('JSON');
 const setCookie = require('setCookie');
+const encodeUriComponent =  require('encodeUriComponent');
 
 let productsPixel = [];
 if(data.valueAuto){
@@ -897,12 +898,12 @@ totalPriceMathPixel: () => {
 },
   
 generateStartLink:() => {
-    var metaTagUrl = "&metatag_url=" + data.metatagURL;
-    var metaTagTitle = "&metatag_title=" + data.metatagTitle;
-    var aud = "&audience=" + makeString(data.audience).split(' ').join('');
-    var deviceUser = "&device_id=" + makeString(data.deviceID).split(' ').join('');
-    var eventUser = "&event=" + makeString(data.event).split(' ').join('');
-    var eventPixel = "&e=1&c=" + data.setEventGoal;
+    var metaTagUrl = "&metatag_url=" + encodeUriComponent(data.metatagURL);
+    var metaTagTitle = "&metatag_title=" + encodeUriComponent(data.metatagTitle);
+    var aud = "&audience=" + encodeUriComponent(makeString(data.audience).split(' ').join(''));
+    var deviceUser = "&device_id=" + encodeUriComponent(makeString(data.deviceID).split(' ').join(''));
+    var eventUser = "&event=" + encodeUriComponent(makeString(data.event).split(' ').join(''));
+    var eventPixel = "&e=1&c=" + encodeUriComponent(data.setEventGoal);
   
     var valuePixel = "&v=";
     if(data.valueAuto){
