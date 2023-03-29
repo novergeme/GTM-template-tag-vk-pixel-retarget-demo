@@ -43,7 +43,7 @@ ___TEMPLATE_PARAMETERS___
       {
         "type": "LABEL",
         "name": "labelAbout",
-        "displayName": "\u003cstrong\u003eВам доступны настройки «Конверсии (Goal)» и «Сбор аудиторий (Audience)». «Динамический ретаргетинг (ProductEvent)» доступен только в \u003ca href\u003d\"https://novergeme.ru/vk_pixel_retarget?utm_source\u003dgtm\u0026utm_medium\u003dtemplate\u0026utm_campaign\u003dfull\"\u003eFull версии\u003c/a\u003e.\u003c/strong\u003e"
+        "displayName": "\u003cstrong\u003eВам доступны настройки «Конверсии (Goal)» и «Сбор аудиторий (Audience)». «Динамический ретаргетинг (ProductEvent)» доступен только в \u003ca href\u003d\"https://novergeme.com/vk_pixel_retarget?utm_source\u003dgtm\u0026utm_medium\u003dtemplate\u0026utm_campaign\u003dfull\"\u003eFull версии\u003c/a\u003e.\u003c/strong\u003e"
       }
     ]
   },
@@ -849,7 +849,7 @@ ___TEMPLATE_PARAMETERS___
       {
         "type": "LABEL",
         "name": "developer",
-        "displayName": "Разработчик: \u003ca href\u003d\"https://novergeme.ru/vk_pixel_retarget?utm_source\u003dgtm\u0026utm_medium\u003dtemplate\u0026utm_campaign\u003dsite\"\u003eперейти на сайт\u003c/a\u003e"
+        "displayName": "Разработчик: \u003ca href\u003d\"https://novergeme.com/vk_pixel_retarget?utm_source\u003dgtm\u0026utm_medium\u003dtemplate\u0026utm_campaign\u003dsite\"\u003eперейти на сайт\u003c/a\u003e"
       }
     ]
   }
