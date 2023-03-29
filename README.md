@@ -37,7 +37,7 @@
 
 ## 4. Настройка тега в режиме «Динамический ретаргетинг (ProductEvent)»
 
-4.1. Режим «Динамический ретаргетинг (ProductEvent)» достпен только в Full версии, [подробнее](https://novergeme.ru/vk_pixel_retarget?utm_source=github&utm_medium=gtm&utm_campaign=instruction4_1) на сайте разработчика;
+4.1. Режим «Динамический ретаргетинг (ProductEvent)» достпен только в Full версии, [подробнее](https://novergeme.com/vk_pixel_retarget?utm_source=github&utm_medium=gtm&utm_campaign=instruction4_1) на сайте разработчика;
 
 4.2. Вы можете посмотреть UI-интерфейс режима «Динамический ретаргетинг (ProductEvent)» и увидеть какие поля используются в Full версии;
 
@@ -45,4 +45,4 @@
 
 5.1. Инструкция: вам доступно 12 видеоинструкций в режиме скринкаста (видео с экрана):  [ссылка на YouTube](https://youtube.com/playlist?list=PLy7BYWCGI_atdK3qm9rbp2PNaAKfSGp0T);
 
-5.2. Разработчик:  [ссылка на сайт разработчика](https://novergeme.ru/vk_pixel_retarget)  , эта ссылка ведёт на web-страницу сайта разработчика, которая посвящена данному шаблону.
+5.2. Разработчик:  [ссылка на сайт разработчика](https://novergeme.com/vk_pixel_retarget)  , эта ссылка ведёт на web-страницу сайта разработчика, которая посвящена данному шаблону.
